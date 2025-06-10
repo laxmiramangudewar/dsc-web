@@ -4,6 +4,8 @@ class FirstClass {
     }
 } 
 class SecondClass {
-    
+    public static void main(string[]args){
+        
+    }
     
 }
