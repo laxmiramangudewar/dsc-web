@@ -3,3 +3,7 @@ class FirstClass {
         System.out.println("Hello, World!"); 
     }
 } 
+class SecondClass {
+    
+    
+}
