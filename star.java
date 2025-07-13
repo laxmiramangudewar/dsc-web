@@ -9,4 +9,5 @@ class Main {
 
   
 } {}
-class main
+class
+  
